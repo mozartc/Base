@@ -54,6 +54,6 @@
 	</plugins>
   </build>
   <properties>
-  	<springVersion>3.2.5.RELEASE</springVersion>
+  	<springVersion>5.2.20.RELEASE</springVersion>
   </properties>
 </project>
